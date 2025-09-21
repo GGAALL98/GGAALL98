@@ -1,1 +1,2 @@
-![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GGAALL98&theme=tokyonight)
+<!-- GitHub Stats -->
+![GGAALL98's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGAALL98&show_icons=true&theme=catppuccin_mocha)
